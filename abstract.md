@@ -4,12 +4,12 @@ Abstract
 タイトル
 --------
 
-* PaaS 管理システムのインストールにおける Jenkins 利用例
+* Jenkins を活用したPaaS管理システム
 
 発表者
 ------
 
-* ohtaket
+* 大嶽智裕 ([@ohtaket](https://twitter.com/#!/ohtaket)) 株式会社富士通研究所
 
 概要
 ----
