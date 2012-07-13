@@ -9,7 +9,7 @@ Abstract
 発表者
 ------
 
-* 大嶽智裕 ([@ohtaket](https://twitter.com/#!/ohtaket)) 株式会社富士通研究所
+* 大嶽智裕 ([@ohtaket](https://twitter.com/ohtaket)) 株式会社富士通研究所
 
 概要
 ----
