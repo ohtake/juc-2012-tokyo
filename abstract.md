@@ -1,10 +1,7 @@
-Abstract
-========
+毎日が憧れの新築、反復可能なデリバリーによる常時新築システム
+============================================================
 
-タイトル
---------
-
-* 毎日が憧れの新築、反復可能なデリバリーによる常時新築システム
+http://build-shokunin.org/juc2012/sessions/#satta-5
 
 発表者
 ------
@@ -25,4 +22,10 @@ PaaS バックエンドシステムのインストールを OS のクリーン�
 * Jenkins関連: Slave, Matrix job, Parameterized Trigger
 * ソフトウェア関連: Chef Solo, yum
 * プラクティス関連: Idempotence, Fail fast, Automation over documentation
+
+プレゼンテーション資料
+----------------------
+
+* https://skydrive.live.com/view.aspx?resid=968A39D3BD051DA!460&cid=0968a39d3bd051da&app=PowerPoint
+* http://www.slideshare.net/ohtaketomohiro/ss-13793834
 
